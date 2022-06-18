@@ -1,0 +1,11 @@
+--Official script. Only for Kohls Admin House NBC/BC. It doesn't work on the remakes or the ripoff games. Just saying
+--Owned by MiaaII and head developed by T3chn0 DM me us on the server for support.
+--NOTE: We only have a webhook for execution logs.
+--Premium can be purchased with robux at https://www.roblox.com/catalog/4781653168/SCV2-premium
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Qltxi/SCV2/main/Obfuscated%20SCV2-NP'),true))()
+
+
+
+--JOIN THE DISCORD IF YOU HAVE ANY QUESTIONS.
+--discord.gg/65yHbG4Wfa
